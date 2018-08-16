@@ -19,7 +19,7 @@ node {
 	def BundleProcStatus = 'IN_PROCESS'
     
 	//def devTestServer = 'DTServer1'
-	def devTestServer = 'milka12-t17573'
+	def devTestServer = 'localhost'
 	
 	def vseServer = 'VSE'
 	
