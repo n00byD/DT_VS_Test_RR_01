@@ -5,9 +5,9 @@ node {
        def vseID = 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
     
 //	def devTestServer = 'DTServer1'
-	def devTestServer = 'Milka12-t17573'
+	def devTestServer = 'localhost'
 	
-	def vseServer = 'VSE8'
+	def vseServer = 'VSE'
 	def testNum = '08'
 	def marType = 'even'
 	
