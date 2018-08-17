@@ -44,7 +44,7 @@ node {
        // clean
        //bat 'git clean -fdx'
        // Git Project downloaded to workspace
-       git 'https://github.com/milka12/DT_VS_Test_RR'
+       git 'https://github.com/n00byD/DT_VS_Test_RR_01'
     //  curl -X POST -H "authorization: Basic YWRtaW46YWRtaW4=" "DTServer1:1505/lisa-test-invoke/api/v1/tests/run " -H "content-type: multipart/form-data" -F file=@"//DTSERVER1/DTShare/cars-baseline-rest-test.mar"
    }
 
